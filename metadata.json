@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Voyages",
+  "description": "Bespoke luxury travel experiencing and AI-powered boutique trip planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
